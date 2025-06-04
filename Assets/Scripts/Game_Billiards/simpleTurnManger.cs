@@ -42,4 +42,4 @@ public class SimpleTurnManager : MonoBehaviour
         anyBallMoveing = true;                                     //공이 움직이기 시작하기 때문에 bool 값 변경 
         Debug.Log("턴 시작! 공이 멈출 때 까지 기다리세요.");
     }
-}s
+}
